@@ -1,5 +1,4 @@
 <h1>portfolio<h1>
-<hr>
 <br>
 
 <ol style="font-size:15px;">
