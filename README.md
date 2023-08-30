@@ -1,9 +1,10 @@
-<h1>portfolio<h1>
+<h1>portfolio</h1>
 <br>
 
 <ol>
-    <li>vite를 이용해서 사이트 제작 </li>
-    <li>react.js를 이용해서 사이트를 제작 </li>
-    <li>vue.js를 이용해서 사이트를 제작 </li>
-    <li>next.js를 이용해서 사이트를 제작 </li>
+    <h2>vite를 이용해서 사이트 제작 </h2>
+    <h3>사용 스택</h3>
+    <li>vite..js</li>
+    <li>gsap</li>
+    <li>lenis</li>
 </ol>
